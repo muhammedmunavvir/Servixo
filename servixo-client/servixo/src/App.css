@@ -1,0 +1,14 @@
+.navitems {
+  display: flex;
+  justify-content: space-around;
+  
+  backdrop-filter: blur(19px);
+ 
+  
+}
+
+.navitems .centercontent {
+  width: 40%;
+  display: flex;
+  justify-content: space-evenly;
+}

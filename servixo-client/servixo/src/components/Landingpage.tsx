@@ -23,12 +23,12 @@ const Landingpage = () => {
 
       {/* Hero Section */}
       <section className="bg-blue-50 dark:bg-gray-800 py-20 text-center">
-        <h2 className="text-4xl font-bold mb-4">Your One-Stop Solution for Online Government Services</h2>
+        <h2 className="text-4xl font-bold mb-4">Your One-Stop Solution for Mini Online  Services</h2>
         <p className="text-lg mb-6">From PAN & Aadhaar to Passport Services – Servixo makes it simple, secure, and fast.</p>
         <div className="space-x-4">
           <button className="bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700">Explore Services</button>
           <button className="bg-white dark:bg-gray-700 dark:text-white text-blue-600 border border-blue-600 px-6 py-2 rounded hover:bg-blue-100 dark:hover:bg-gray-600">Track My Application</button>
-        </div>
+        </div> 
       </section>
 
       {/* Services Section */}

@@ -87,7 +87,7 @@ const Landingpage = () => {
           <form className="space-y-4">
             <input type="text" placeholder="Your Name" className="w-full px-4 py-2 border rounded bg-white dark:bg-gray-700 dark:text-white" />
             <input type="email" placeholder="Your Email" className="w-full px-4 py-2 border rounded bg-white dark:bg-gray-700 dark:text-white" />
-            <textarea placeholder="Your Message" rows="4" className="w-full px-4 py-2 border rounded bg-white dark:bg-gray-700 dark:text-white"></textarea>
+            <textarea placeholder="Your Message"  className="w-full px-4 py-2 border rounded bg-white dark:bg-gray-700 dark:text-white"></textarea>
             <button type="submit" className="bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700">
               Send Message
             </button>
